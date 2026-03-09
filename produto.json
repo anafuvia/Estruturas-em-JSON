@@ -1,0 +1,10 @@
+{
+    "produto": {
+        "nome ": "pantufa",
+        "preço": 65,
+        "disponível": true,
+        "quantidade": 1
+        
+        
+    }
+}

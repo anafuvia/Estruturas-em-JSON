@@ -1,0 +1,9 @@
+{
+    "Filme": {
+        "título": "Star Wars",
+        "ano": 1977,
+        "diretor": "George Lucas.",
+        "gênero": "aventura"
+            
+    }
+}
